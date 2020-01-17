@@ -1,2 +1,3 @@
-# ape-template
-Repository template for actions-packages-examples.
+# workflow-per-branch
+
+README specific to the `develop` branch.
